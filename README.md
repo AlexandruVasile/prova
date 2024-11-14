@@ -13,3 +13,4 @@ package.json: Contains metadata for the project, such as scripts to run and depe
 package-lock.json and pnpm-lock.yaml: Lock files for npm and pnpm respectively, which capture exact dependency versions for consistent installs. It seems like both npm and pnpm are used to manage dependencies, which may indicate experimentation with or a migration between package managers.
 
 server.js: The main entry point of the application where the server is initialized. Here, middleware, routes, and other configurations are likely applied, and the server is started to listen for incoming requests.
+
